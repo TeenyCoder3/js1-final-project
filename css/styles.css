@@ -1,9 +1,8 @@
-.work {
+.first-half {
   margin-top: -100px;
   padding: 250px;
   position: relative;
 }
-
 
 body {
   margin-top: 0;
@@ -57,16 +56,15 @@ ul li.checked::before {
 }
 
 .header {
-    padding: 30px 40px;
-    color: white;
-    text-align: center;
-
+  padding: 30px 40px;
+  color: white;
+  text-align: center;
 }
 
 .header:after {
-    content: "";
-    display: table;
-    clear: both;
+  content: "";
+  display: table;
+  clear: both;
 }
 
 input {
